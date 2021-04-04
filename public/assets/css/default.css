@@ -1,0 +1,62 @@
+body {
+    padding-top: 60px !important ;
+}
+.jumbotron.home-jumbotron{
+    background-color: rgb(32, 136, 255);
+}
+.home-jumbotron{
+    margin-top: -60px;
+    margin-bottom: 5px;
+    padding-top: -60px; 
+   
+}
+.centralizado {
+    margin: 0 auto;
+}
+
+.form-login{
+    width: 400px;
+}
+
+.form-login-title {
+    
+    vertical-align: middle;
+    color: white;
+}
+.color-white {
+    color: white;
+}
+
+.bg-pink{
+    background-color: pink;
+}
+.footer-home {
+    display: block;
+    height: 250px;
+}
+.h-180{
+    height: 180px;
+}
+a.ancora {
+    color: white;
+    text-decoration: none;
+
+}
+
+.bt-novo {
+    position: fixed;
+    bottom: 60px;
+    right: 50px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding-top: 13px;
+    cursor: pointer;
+    z-index: 999;
+}
+.bt-novo:hover{
+    border: 1px outset;
+}
